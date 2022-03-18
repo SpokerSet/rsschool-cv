@@ -27,3 +27,19 @@ let stringToNumber = function(str){
 }
 ```
 *****************************
+Courses:
+
+* CS50(completed)
+* javarush(completed)
+* freecodecamp(in progress)
+* learn.javascript(in progress)
+*****************************
+Education:
+
+I am a studen of PSU in Belarus.
+*****************************
+Languages:
+
+* English(A2)
+* Russian(Native)
+* Belarussian(Intermediate)
